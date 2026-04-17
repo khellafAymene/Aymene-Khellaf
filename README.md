@@ -24,11 +24,6 @@ I'm Aymen Khellaf, a passionate *Data Analyst | MSc Computer Systems | Data Visu
 
 I've worked on several projects where I contribute to digitalization and *data analytics* projects - including *backend development with SQL & Firebase*.
 
-- 🔭 **Currently working on:** Frontend apps and wireless network systems at Fraunhofer IOSB-INA  
-- 🌱 **Learning:** Vue.js & Docker
-- 💼 **Open to:** Roles and collaborations in digital production and smart industry projects  
-- 📫 **Reach me at:** [selhabahmedyakoub@gmail.com](mailto:selhabahmedyakoub@gmail.com)
-
 🔭 **Currently working on:**
 • Interactive dashboards & data visualization tools  
 • Backend database systems   
