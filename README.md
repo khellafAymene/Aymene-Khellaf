@@ -4,9 +4,9 @@
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=khellafAymene&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/khellafAymene)
-[![GitHub Followers](https://img.shields.io/github/followers/selhabAhmedyakoub?style=social)](https://github.com/selhabAhmedyakoub)
+[![GitHub Followers](https://img.shields.io/github/followers/khellafAymene?style=social)](https://github.com/khellafAymene)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymene-khellaf-b6612b396/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:selhabahmedyakoub@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:aymene.0.khellaf@gmail.com)
 
 </div>
 
