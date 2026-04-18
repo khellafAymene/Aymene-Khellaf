@@ -50,12 +50,13 @@ I've worked on several projects where I contribute to digitalization and *data a
 ### Programming Languages
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="40" alt="SQLite" />
+  <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/MySQL-Light.svg" height="40" alt="MySQL" />
 </div>
 
 ### Tools & Technologies  
 <div align="left">
   <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/PowerBI.png" height="40" alt="PowerBI" />
+  <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/Docker.svg" height="40" alt="Docker" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Light.svg" height="40" alt="Github" />
