@@ -51,9 +51,9 @@ I've worked on several projects where I contribute to digitalization and *data a
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python" />
   <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/C.svg" height="40" alt="C" />
-  <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/C.svg" height="40" alt="C" />
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" height="40" alt="flask" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" alt="java" />
   <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/MySQL-Light.svg" height="40" alt="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" height="40" alt="flask" />
 </div>
 
 ### Tools & Technologies  
